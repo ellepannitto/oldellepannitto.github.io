@@ -14,23 +14,24 @@ Istruzione e Formazione
 :   **Laurea Magistrale in Informatica Umanistica**; Università di Pisa, Pisa (Italia), Percorso Tecnologie del Linguaggio
 
    *Corsi rilevanti:*
-    - Linguistica Computazionale
-    - Linguistica Applicata
-    - Introduzione all'Intelligenza Artificiale
-    - Machine Learning
-    - Information Retrieval
-    - Elaborazione del Linguaggio Naturale
+   - Linguistica computazionale
+   - Linguistica applicata
+   - Introduzione all'intelligenza artificiale
+   - Machine Learning
+   - Information Retrieval
+   - Elaborazione del Linguaggio Naturale
+   
     
 2013-2016
 :   **Laurea Triennale in Informatica Umanistica**; Università di Pisa, Pisa (Italia)
 
-   Votazione: 110/110 con lode
+:   Votazione: 110/110 con lode
     
-   *Tesi*: **LISA: un tagger semantico leggero per l'italiano**
-   relatore prof. Alessandro Lenci
-   correlatore dott. Felice dell'Orletta
+:   *Tesi*: **LISA: un tagger semantico leggero per l'italiano**
+:   relatore prof. Alessandro Lenci
+:   correlatore dott. Felice dell'Orletta
 
-   *Abstract:*
+:   *Abstract:*
 
    Il lavoro ha come oggetto lo sviluppo di un tagger semantico di supersensi per i nomi italiani. Fenomeni linguistici
    come la metonimia introducono anche a questo livello notevoli casi di ambiguità (es. “Il tavolo tre chiede il conto” - “Il
