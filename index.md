@@ -13,6 +13,7 @@ Istruzione e Formazione
 2016-in corso 
 :   **Laurea Magistrale in Informatica Umanistica**; Università di Pisa, Pisa (Italia), Percorso Tecnologie del Linguaggio
 
+
 :   *Corsi rilevanti:*
    - Linguistica computazionale
    - Linguistica applicata
@@ -31,10 +32,12 @@ Istruzione e Formazione
 :   relatore prof. Alessandro Lenci
 :   correlatore dott. Felice dell'Orletta
 
+
 :   *Abstract:*
 
 :   Il lavoro ha come oggetto lo sviluppo di un tagger semantico di supersensi per i nomi italiani. Fenomeni linguistici come la metonimia introducono anche a questo livello notevoli casi di ambiguità (es. “Il tavolo tre chiede il conto” - “Il cameriere fa accomodare i clienti al tavolo tre”). La necessità di una classificazione minimale, insieme con il desiderio di una classificazione relativa rispetto all'argomento linguistico realizzato dall'entità, ha portato ad elaborare la Light Semantic Ontology. Da questa è stato derivato un tagset per l'annotazione di supersensi su una risorsa automaticamente processata fino al livello sintattico. Il task è stato dunque affrontato come un task supervisionato di classificazione multiclasse, per la    costruzione del modello è stata utilizzata una Support Vector Machine con kernel lineare. I risultati mostrano la rilevanza dei vari tipi di informazione utilizzata, in particolare relativamente all'utilizzo di feature che codificano informazione sintattica e semantica. Si dimostrano necessarie ulteriori indagini riguardo agli errori prodotti in fase di classificazione e una più ampia esplorazione di altre fonti di informazione da cui ricavare feature diverse rispetto a quelle testate.
-     
+
+
 :   *Corsi rilevanti:*
    - Linguistica generale
    - Linguistica computazionale
@@ -50,24 +53,20 @@ Esperienza
 ----------
 
 2015-2016
-:   **Tirocinante** presso il Laboratorio di Linguistica Computazionale dell'Università di Pisa
+:   **Tirocinio** presso il Laboratorio di Linguistica Computazionale dell'Università di Pisa
 
-   Tirocinio curriculare finalizzato allo svolgimento della tesi, oggetto: *Annotazione semi-automatica di un corpus a livello   di supersensi semantici*
+:   Tirocinio curriculare finalizzato allo svolgimento della tesi, oggetto: *Annotazione semi-automatica di un corpus a livello   di supersensi semantici*
 
-**Your Most Recent Work Experience:**
+22.8.2016-14.10.2016
+:   **Collaborazione Part-Time** presso SyNTHEMA s.r.l., Pisa
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+:   Attività svolta presso il WIS! (Welcome International Students office) per allestimento e gestione del centro immatricolazioni a.a. 2016/2017 e digitalizzazione della documentazione cartacea delle immatricolazioni 2016/2017
 
-* First item
+28.7.2016-05.02.2016
+:   **Collaborazione Part-Time** - Direzione Ricerca e internazionalizzazione - Università di Pisa, Pisa (Italia) 
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+:   Attività svolta presso il WIS! (Welcome International Students) per attività di front office ed accoglienza per studenti stranieri
 
-**That Other Job You Had**
-
-Also with a short description.
 
 Technical Experience
 --------------------
