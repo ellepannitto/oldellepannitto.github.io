@@ -72,7 +72,7 @@ Esperienza
 Competenze
 ----------
 
-** Competenze Tecniche **
+**Competenze Tecniche**
 
    Conoscenza di algoritmi di classificazione basati su *Support Vector Machines*, *Reti Neurali*.
 
