@@ -81,6 +81,7 @@ Competenze
 | Inglese |                     C1                     |    C2   |      C1     |        C1        |         C1         |
 | Tedesco |                     B1                     |    B1   |      B1     |        B1        |         B1         |
 
+
 ** Altre Competenze Tecniche **
 
    Conoscenza di algoritmi di classificazione basati su *Support Vector Machines*, *Reti Neurali*.
