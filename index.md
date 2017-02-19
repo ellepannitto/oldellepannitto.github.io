@@ -74,13 +74,23 @@ Competenze
 
 :   **Lingua Madre:** Italiano
 
-:   **Altre Lingue:**
+:   **Altre Lingue**
+
 
 |         |                   Ascolto                  | Lettura | Interazione | Produzione orale | Produzione scritta |
 | Inglese |                     C1                     |    C2   |      C1     |        C1        |         C1         |
 | Tedesco |                     B1                     |    B1   |      B1     |        B1        |         B1         |
 
 
+:   Conoscenza di algoritmi di classificazione basati su Support Vector Machines, Reti Neurali.
+
+:   Buona familiarità con nltk. Conoscenza di scikit-learn, lucene.
+
+:   Buona conoscenza di Python, Java, JavaScript. Conoscenza di bash, SQL, php. Conoscenza di XML (DTD e Schema, XPath, XSLT)
+
+:   Buona conoscenza delle espressioni regolari
+
+:   Familiarità con sistemi operativi UNIX-like
 
 Technical Experience
 --------------------
