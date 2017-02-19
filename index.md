@@ -1,14 +1,14 @@
 Ludovica Pannitto
 ============
 
-------------------- 
+
 via delle Conce, 6
 56125 Pisa                          
 Italy             
 
 ellepannitto@gmail.com
 +39 3890036294
-------------------- 
+
 
 Istruzione e Formazione
 ---------
@@ -25,7 +25,8 @@ Istruzione e Formazione
     
 2013-2016
 :   **Laurea Triennale in Informatica Umanistica**; Università di Pisa, Pisa (Italia)
-    Votazione: 110/110 con lode
+
+   Votazione: 110/110 con lode
     
     *Tesi*: **LISA: un tagger semantico leggero per l'italiano**
     relatore prof. Alessandro Lenci
@@ -52,6 +53,10 @@ Istruzione e Formazione
     - Matematica Discreta e Algebra Lineare
     - Calcolo delle Probabilità e Statistica
 
+2007-2012
+:   **Diploma di maturità classica**; Liceo Classico M.Pagano, Campobasso (Italia)
+
+    Votazione 90/100
 
 Experience
 ----------
