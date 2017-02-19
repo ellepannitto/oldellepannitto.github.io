@@ -81,19 +81,31 @@ Competenze
 | Inglese |                     C1                     |    C2   |      C1     |        C1        |         C1         |
 | Tedesco |                     B1                     |    B1   |      B1     |        B1        |         B1         |
 
+** Altre Competenze Tecniche **
 
-:   Conoscenza di algoritmi di classificazione basati su Support Vector Machines, Reti Neurali.
+   Conoscenza di algoritmi di classificazione basati su *Support Vector Machines*, *Reti Neurali*.
 
-:   Buona familiarità con nltk. Conoscenza di scikit-learn, lucene.
+   Buona familiarità con *nltk*. Conoscenza di *scikit-learn*, *lucene*.
 
-:   Buona conoscenza di Python, Java, JavaScript. Conoscenza di bash, SQL, php. Conoscenza di XML (DTD e Schema, XPath, XSLT)
+   Buona conoscenza di *Python*, *Java*, *JavaScript*. Conoscenza di *bash*, *SQL*, *php*. Conoscenza di *XML* (*DTD*, *XPath*, *XSLT*)
 
-:   Buona conoscenza delle espressioni regolari
+   Buona conoscenza delle *espressioni regolari*
 
-:   Familiarità con sistemi operativi UNIX-like
+   Familiarità con sistemi operativi *UNIX-like*
 
-Technical Experience
---------------------
+Progetti
+--------
+**Partecipazione a SemEval 2017**
+
+:   Partecipazione al Task 3 di SemEval-2017 (Community Question Answering).
+:   Il progetto, svolto nell'ambito del corso di Elaborazione del Linguaggio Naturale (prof. Giuseppe Attardi), ha portato alla realizzazione di un modello basato su Recurrent Neural Network.
+
+Corsi
+--------
+
+
+Progetti
+--------
 
 My Cool Side Project
 :   For items which don't have a clear time ordering, a definition
