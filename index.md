@@ -70,19 +70,17 @@ Esperienza
 
 
 Competenze
-----------
-
+-----------
 **Competenze Tecniche**
+:   Conoscenza di algoritmi di classificazione basati su *Support Vector Machines*, *Reti Neurali*.
 
-   Conoscenza di algoritmi di classificazione basati su *Support Vector Machines*, *Reti Neurali*.
+:   Buona familiarità con *nltk*. Conoscenza di *scikit-learn*, *lucene*.
 
-   Buona familiarità con *nltk*. Conoscenza di *scikit-learn*, *lucene*.
+:   Buona conoscenza di *Python*, *Java*, *JavaScript*. Conoscenza di *bash*, *SQL*, *php*. Conoscenza di *XML* (*DTD*, *XPath*, *XSLT*)
 
-   Buona conoscenza di *Python*, *Java*, *JavaScript*. Conoscenza di *bash*, *SQL*, *php*. Conoscenza di *XML* (*DTD*, *XPath*, *XSLT*)
+:   Buona conoscenza delle *espressioni regolari*
 
-   Buona conoscenza delle *espressioni regolari*
-
-   Familiarità con sistemi operativi *UNIX-like*
+:   Familiarità con sistemi operativi *UNIX-like*
    
    
 **Lingua Madre:** 
