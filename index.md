@@ -105,6 +105,14 @@ Progetti
 Corsi
 --------
 
+Febbraio 2017
+:   Partecipazione alla **VII Edizione della Scuola Invernale TRIPLE**, sul tema *Espansioni del Lessico. Nuove parole, nuovi formati, nuovi significati.*
+
+2016 - in corso
+:   Frequenza di corsi di **arabo** organizzati dal Centro Linguistico Interdipartimentale dell'Università di Pisa e dal centro linguistico-interculturale Alif.
+
+2013-2014
+:   Frequenza di un corso di **cinese** di livello base (30 ore) presso il Centro Linguistico Interdipartimentale dell'Università di Pisa. 
 
 Progetti
 --------
