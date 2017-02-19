@@ -1,17 +1,21 @@
 Ludovica Pannitto
 ============
 
--------------------     ----------------------------
-via delle Conce, 6            ellepannitto@gmail.com
+------------------- 
+via delle Conce, 6
 56125 Pisa                          
-Italy                                 +39 3890036294
--------------------     ----------------------------
+Italy             
+
+ellepannitto@gmail.com
++39 3890036294
+------------------- 
 
 Istruzione e Formazione
 ---------
 2016-in corso 
 :   **Laurea Magistrale in Informatica Umanistica**; Università di Pisa, Pisa (Italia), Percorso Tecnologie del Linguaggio
-    *Corsi rilevanti:*
+
+   *Corsi rilevanti:*
     - Linguistica Computazionale
     - Linguistica Applicata
     - Introduzione all'Intelligenza Artificiale
@@ -23,7 +27,7 @@ Istruzione e Formazione
 :   **Laurea Triennale in Informatica Umanistica**; Università di Pisa, Pisa (Italia)
     Votazione: 110/110 con lode
     
-    *Tesi*: _LISA: un tagger semantico leggero per l'italiano_
+    *Tesi*: **LISA: un tagger semantico leggero per l'italiano**
     relatore prof. Alessandro Lenci
     correlatore dott. Felice dell'Orletta
 
@@ -41,6 +45,12 @@ Istruzione e Formazione
       informazione sintattica e semantica. Si dimostrano necessarie ulteriori indagini riguardo agli errori prodotti in fase di
       classificazione e una più ampia esplorazione di altre fonti di informazione da cui ricavare feature diverse rispetto a
       quelle testate.
+      
+    *Corsi rilevanti:*
+    - Linguistica generale
+    - Linguistica computazionale
+    - Matematica Discreta e Algebra Lineare
+    - Calcolo delle Probabilità e Statistica
 
 
 Experience
