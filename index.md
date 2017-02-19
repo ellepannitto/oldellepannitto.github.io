@@ -76,13 +76,9 @@ Competenze
 
 :   **Altre Lingue:**
 
-|         |                      Comprensione                    |            Parlato             | Produzione scritta |
-|:-------:|:------------------------------------------:|:-------:|:-----------:|:----------------:|:------------------:|
-|         |                   Ascolto                  | Lettura | Interazione | Produzione orale |                    |
+|         |                   Ascolto                  | Lettura | Interazione | Produzione orale | Produzione scritta |
 | Inglese |                     C1                     |    C2   |      C1     |        C1        |         C1         |
-|         |                                 Certificate ofProficiency in English (CPE)                                 |
 | Tedesco |                     B1                     |    B1   |      B1     |        B1        |         B1         |
-|         |                                                Test onDaF (B1)                                             |
 
 
 
