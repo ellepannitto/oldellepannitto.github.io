@@ -1,10 +1,13 @@
-## Curriculum Vitae
-
 Ludovica Pannitto
+============
 
-via delle Conce, 6
-56125 - Pisa
-ellepannitto@gmail.com
+-------------------     ----------------------------
+via delle Conce, 6            ellepannitto@gmail.com
+56125 Pisa                          
+Italy                                 +39 3890036294
+-------------------     ----------------------------
+
+### Istruzione e Formazione
 
 You can use the [editor on GitHub](https://github.com/ellepannitto/ellepannitto.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
