@@ -1,8 +1,9 @@
 Ludovica Pannitto
 ============
 
-nata a Campobasso, il 13/10/1993
+luogo e data di nascita: Campobasso, il 13/10/1993
 
+Contatti:
 via delle Conce, 6 - 56125 Pisa, Italy             
 
 ellepannitto@gmail.com, +39 3890036294
@@ -66,6 +67,23 @@ Esperienza
 :   **Collaborazione Part-Time** - Direzione Ricerca e internazionalizzazione - Università di Pisa, Pisa (Italia) 
 
 :   Attività svolta presso il WIS! (Welcome International Students) per attività di front office ed accoglienza per studenti stranieri
+
+
+Competenze
+----------
+
+:   **Lingua Madre:** Italiano
+
+:   **Altre Lingue:**
+
+|         |                      Comprensione                    |            Parlato             | Produzione scritta |
+|:-------:|:------------------------------------------:|:-------:|:-----------:|:----------------:|:------------------:|
+|         |                   Ascolto                  | Lettura | Interazione | Produzione orale |                    |
+| Inglese |                     C1                     |    C2   |      C1     |        C1        |         C1         |
+|         |                                 Certificate ofProficiency in English (CPE)                                 |
+| Tedesco |                     B1                     |    B1   |      B1     |        B1        |         B1         |
+|         |                                                Test onDaF (B1)                                             |
+
 
 
 Technical Experience
