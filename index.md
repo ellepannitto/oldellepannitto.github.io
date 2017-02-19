@@ -72,14 +72,14 @@ Esperienza
 Competenze
 ----------
 
-:   **Lingua Madre:** Italiano
+**Lingua Madre:** 
+:   Italiano
 
-:   **Altre Lingue**
+**Altre Lingue**
 
-
-:|         |                   Ascolto                  | Lettura | Interazione | Produzione orale | Produzione scritta |
-:| Inglese |                     C1                     |    C2   |      C1     |        C1        |         C1         |
-:| Tedesco |                     B1                     |    B1   |      B1     |        B1        |         B1         |
+|         |                   Ascolto                  | Lettura | Interazione | Produzione orale | Produzione scritta |
+| Inglese |                     C1                     |    C2   |      C1     |        C1        |         C1         |
+| Tedesco |                     B1                     |    B1   |      B1     |        B1        |         B1         |
 
 
 :   Conoscenza di algoritmi di classificazione basati su Support Vector Machines, Reti Neurali.
