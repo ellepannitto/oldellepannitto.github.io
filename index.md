@@ -79,7 +79,7 @@ Competenze
 
 |         |                   Ascolto                  | Lettura | Interazione | Produzione orale | Produzione scritta |
 | Inglese |                     C1                     |    C2   |      C1     |        C1        |         C1         |
-| Tedesco |                     B1                     |    B1   |      B1     |        B1        |         B1         |
+| Tedesco |                     B1                     |    B1   |      B1     |        B1        |         B1         |  
 
 
 ** Altre Competenze Tecniche **
