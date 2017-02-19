@@ -1,13 +1,11 @@
 Ludovica Pannitto
 ============
 
+nata a Campobasso, il 13/10/1993
 
-via delle Conce, 6
-56125 Pisa                          
-Italy             
+via delle Conce, 6 - 56125 Pisa, Italy             
 
-ellepannitto@gmail.com
-+39 3890036294
+ellepannitto@gmail.com, +39 3890036294
 
 
 Istruzione e Formazione
@@ -28,38 +26,43 @@ Istruzione e Formazione
 
    Votazione: 110/110 con lode
     
-    *Tesi*: **LISA: un tagger semantico leggero per l'italiano**
-    relatore prof. Alessandro Lenci
-    correlatore dott. Felice dell'Orletta
+   *Tesi*: **LISA: un tagger semantico leggero per l'italiano**
+   relatore prof. Alessandro Lenci
+   correlatore dott. Felice dell'Orletta
 
-    *Abstract:*
+   *Abstract:*
 
-    Il lavoro ha come oggetto lo sviluppo di un tagger semantico di supersensi per i nomi italiani. Fenomeni linguistici
-    come la metonimia introducono anche a questo livello notevoli casi di ambiguità (es. “Il tavolo tre chiede il conto” - “Il
-    cameriere fa accomodare i clienti al tavolo tre”).
-    La necessità di una classificazione minimale, insieme con il desiderio di una classificazione relativa rispetto
-    all'argomento linguistico realizzato dall'entità, ha portato ad elaborare la Light Semantic Ontology. Da questa è stato
-    derivato un tagset per l'annotazione di supersensi su una risorsa automaticamente processata fino al livello
-    sintattico. Il task è stato dunque affrontato come un task supervisionato di classificazione multiclasse, per la
-    costruzione del modello è stata utilizzata una Support Vector Machine con kernel lineare. I risultati mostrano la
-    rilevanza dei vari tipi di informazione utilizzata, in particolare relativamente all'utilizzo di feature che codificano
-    informazione sintattica e semantica. Si dimostrano necessarie ulteriori indagini riguardo agli errori prodotti in fase di
-    classificazione e una più ampia esplorazione di altre fonti di informazione da cui ricavare feature diverse rispetto a
-    quelle testate.
-      
-    *Corsi rilevanti:*
-    - Linguistica generale
-    - Linguistica computazionale
-    - Matematica Discreta e Algebra Lineare
-    - Calcolo delle Probabilità e Statistica
+   Il lavoro ha come oggetto lo sviluppo di un tagger semantico di supersensi per i nomi italiani. Fenomeni linguistici
+   come la metonimia introducono anche a questo livello notevoli casi di ambiguità (es. “Il tavolo tre chiede il conto” - “Il
+   cameriere fa accomodare i clienti al tavolo tre”).
+   La necessità di una classificazione minimale, insieme con il desiderio di una classificazione relativa rispetto
+   all'argomento linguistico realizzato dall'entità, ha portato ad elaborare la Light Semantic Ontology. Da questa è stato
+   derivato un tagset per l'annotazione di supersensi su una risorsa automaticamente processata fino al livello
+   sintattico. Il task è stato dunque affrontato come un task supervisionato di classificazione multiclasse, per la
+   costruzione del modello è stata utilizzata una Support Vector Machine con kernel lineare. I risultati mostrano la
+   rilevanza dei vari tipi di informazione utilizzata, in particolare relativamente all'utilizzo di feature che codificano
+   informazione sintattica e semantica. Si dimostrano necessarie ulteriori indagini riguardo agli errori prodotti in fase di
+   classificazione e una più ampia esplorazione di altre fonti di informazione da cui ricavare feature diverse rispetto a
+   quelle testate.
+     
+   *Corsi rilevanti:*
+   - Linguistica generale
+   - Linguistica computazionale
+   - Matematica Discreta e Algebra Lineare
+   - Calcolo delle Probabilità e Statistica
 
 2007-2012
 :   **Diploma di maturità classica**; Liceo Classico M.Pagano, Campobasso (Italia)
 
-    Votazione 90/100
+   Votazione 90/100
 
 Esperienza
 ----------
+
+2015-2016
+:   **Tirocinante** presso il Laboratorio di Linguistica Computazionale dell'Università di Pisa
+
+   Tirocinio curriculare finalizzato allo svolgimento della tesi, oggetto: *Annotazione semi-automatica di un corpus a livello   di supersensi semantici*
 
 **Your Most Recent Work Experience:**
 
