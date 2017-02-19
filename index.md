@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Curriculum Vitae
+
+Ludovica Pannitto
+
+via delle Conce, 6
+56125 - Pisa
+ellepannitto@gmail.com
 
 You can use the [editor on GitHub](https://github.com/ellepannitto/ellepannitto.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
