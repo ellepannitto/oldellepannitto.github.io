@@ -1,5 +1,6 @@
 Ludovica Pannitto
 ============
+[versione PDF](https://github.com/ellepannitto/ellepannitto.github.io/blob/master/Pannitto_cv.pdf)
 
 **Informazioni Personali**
 
