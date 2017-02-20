@@ -14,8 +14,7 @@ Istruzione e Formazione
 2016-in corso 
 :   **Laurea Magistrale in Informatica Umanistica**; Università di Pisa, Pisa (Italia), Percorso Tecnologie del Linguaggio
 
-
-
+\s\s
 :   *Corsi rilevanti:*
     - Linguistica computazionale
     - Linguistica applicata
@@ -34,7 +33,7 @@ Istruzione e Formazione
 :   *relatore* prof. Alessandro Lenci
 :   *correlatore* dott. Felice dell'Orletta
 
-
+\s\s
 
 :   *Abstract:*
 :   Il lavoro ha come oggetto lo sviluppo di un tagger semantico di supersensi per i nomi italiani. Fenomeni linguistici come la metonimia introducono anche a questo livello notevoli casi di ambiguità (es. “Il tavolo tre chiede il conto” - “Il cameriere fa accomodare i clienti al tavolo tre”). La necessità di una classificazione minimale, insieme con il desiderio di una classificazione relativa rispetto all'argomento linguistico realizzato dall'entità, ha portato ad elaborare la Light Semantic Ontology. Da questa è stato derivato un tagset per l'annotazione di supersensi su una risorsa automaticamente processata fino al livello sintattico. Il task è stato dunque affrontato come un task supervisionato di classificazione multiclasse, per la    costruzione del modello è stata utilizzata una Support Vector Machine con kernel lineare. I risultati mostrano la rilevanza dei vari tipi di informazione utilizzata, in particolare relativamente all'utilizzo di feature che codificano informazione sintattica e semantica. Si dimostrano necessarie ulteriori indagini riguardo agli errori prodotti in fase di classificazione e una più ampia esplorazione di altre fonti di informazione da cui ricavare feature diverse rispetto a quelle testate.
