@@ -13,21 +13,25 @@ Istruzione e Formazione
 ---------
 
 2016-in corso 
-:   **Laurea Magistrale in Informatica Umanistica**; Università di Pisa, Pisa (Italia), Percorso Tecnologie del Linguaggio
+:   **Laurea Magistrale in Informatica Umanistica**; Università di Pisa, Pisa (Italia), Percorso Tecnologie del Linguaggio  
 
-
-|  *Corsi rilevanti:*  |  Linguistica computazionale, Linguistica applicata, Introduzione all'intelligenza artificiale, Machine Learning, Information Retrieval, Elaborazione del Linguaggio Naturale
+:   *Corsi rilevanti:*
+   - Linguistica computazionale
+   - Linguistica applicata
+   - Introduzione all'intelligenza artificiale
+   - Machine Learning
+   - Information Retrieval
+   - Elaborazione del Linguaggio Naturale
    
-    
+   
 2013-2016
-:   **Laurea Triennale in Informatica Umanistica**; Università di Pisa, Pisa (Italia)
+:   **Laurea Triennale in Informatica Umanistica**; Università di Pisa, Pisa (Italia)  
 
-:   Votazione: 110/110 con lode
+:   Votazione: 110/110 con lode  
     
 :   *Tesi*: **LISA: un tagger semantico leggero per l'italiano**
 :   *relatore* prof. Alessandro Lenci
-:   *correlatore* dott. Felice dell'Orletta
-
+:   *correlatore* dott. Felice dell'Orletta  
 
 
 :   *Abstract:*
@@ -40,9 +44,9 @@ Istruzione e Formazione
     - Calcolo delle Probabilità e Statistica
 
 2007-2012
-:   **Diploma di maturità classica**; Liceo Classico M.Pagano, Campobasso (Italia)
+:   **Diploma di maturità classica**; Liceo Classico M.Pagano, Campobasso (Italia)  
 
-:   Votazione 90/100
+:   Votazione 90/100  
 
 Esperienza
 ----------
