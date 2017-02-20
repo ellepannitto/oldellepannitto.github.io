@@ -3,7 +3,7 @@ Ludovica Pannitto
 
 **Informazioni Personali**
 
-|   Luogo e data di nascita  |   Campobasso, 13/10/1993                 |
+|   Luogo e data di nascita  |   Campobasso, 13.10.1993                 |
 |   Contatti:                |   via delle Conce, 6 - 56125 Pisa, Italy |
 |                            |   ellepannitto@gmail.com                 |
 |                            |   +39 3890036294                         |
