@@ -15,13 +15,7 @@ Istruzione e Formazione
 :   **Laurea Magistrale in Informatica Umanistica**; Università di Pisa, Pisa (Italia), Percorso Tecnologie del Linguaggio
 
 
-:   *Corsi rilevanti:*
-    - Linguistica computazionale
-    - Linguistica applicata
-    - Introduzione all'intelligenza artificiale
-    - Machine Learning
-    - Information Retrieval
-    - Elaborazione del Linguaggio Naturale
+|  *Corsi rilevanti:*  |  Linguistica computazionale, Linguistica applicata, Introduzione all'intelligenza artificiale, Machine Learning, Information Retrieval, Elaborazione del Linguaggio Naturale
    
     
 2013-2016
