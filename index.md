@@ -17,12 +17,12 @@ Istruzione e Formazione
 
 
 :   *Corsi rilevanti:*
-   - Linguistica computazionale
-   - Linguistica applicata
-   - Introduzione all'intelligenza artificiale
-   - Machine Learning
-   - Information Retrieval
-   - Elaborazione del Linguaggio Naturale
+    - Linguistica computazionale
+    - Linguistica applicata
+    - Introduzione all'intelligenza artificiale
+    - Machine Learning
+    - Information Retrieval
+    - Elaborazione del Linguaggio Naturale
    
     
 2013-2016
@@ -43,10 +43,10 @@ Istruzione e Formazione
 
 
 :   *Corsi rilevanti:*
-   - Linguistica generale
-   - Linguistica computazionale
-   - Matematica Discreta e Algebra Lineare
-   - Calcolo delle Probabilità e Statistica
+    - Linguistica generale
+    - Linguistica computazionale
+    - Matematica Discreta e Algebra Lineare
+    - Calcolo delle Probabilità e Statistica
 
 2007-2012
 :   **Diploma di maturità classica**; Liceo Classico M.Pagano, Campobasso (Italia)
