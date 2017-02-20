@@ -119,9 +119,6 @@ Febbraio 2017
 
 Extra
 --------
-:   Rappresentante degli studenti in Consiglio di Corso, Consiglio di Dipartimento e Consiglio degli
-Studenti presso l’Università di Pisa.
+   - Rappresentante degli studenti in Consiglio di Corso, Consiglio di Dipartimento e Consiglio degli Studenti presso l’Università di Pisa.
 
-:   Presidente, per l'anno 2015, dell'Associazione di Servizio Attività Studentesche UniPi, che si occupa
-di mediare l'accesso ai fondi per le attività studentesche a gruppi studenteschi non formalmente
-costituiti in associazione
+   - Presidente, per l'anno 2015, dell'Associazione di Servizio Attività Studentesche UniPi, che si occupa di mediare l'accesso ai fondi per le attività studentesche a gruppi studenteschi non formalmente costituiti in associazione
