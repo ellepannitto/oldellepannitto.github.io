@@ -2,6 +2,7 @@ Ludovica Pannitto
 ============
 
 **[Curriculum Vitae in versione PDF](https://github.com/ellepannitto/ellepannitto.github.io/blob/master/Pannitto_cv.pdf)**
+
 **[English Curriculum Vitae](https://github.com/ellepannitto/ellepannitto.github.io/blob/master/Pannitto_cvEng.pdf)**
 
 **Informazioni Personali**
